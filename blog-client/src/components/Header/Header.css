@@ -1,0 +1,27 @@
+/* header css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 10px;
+  margin-bottom: 40px;
+}
+.header a {
+  text-decoration: none;
+  color: #222;
+  font-family: "Prompt", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.navBar-lists {
+  display: flex;
+  list-style: none;
+}
+.navBar-lists  li:first-child {
+  margin-right: 20px;
+  
+}
+.navBar-lists li a {
+ text-decoration: none;
+ color: #222;
+
+}
